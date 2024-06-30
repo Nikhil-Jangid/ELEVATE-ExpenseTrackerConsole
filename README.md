@@ -23,7 +23,7 @@ This is a simple command-line expense tracker application written in Python. It 
 
    ```bash
    git clone https://github.com/Nikhil-Jangid/ELEVATE-ExpenseTrackerConsole.git
-   cd expense_tracker
+   cd ELEVATE-ExpenseTrackerConsole
 
 2. Run the application:
 
